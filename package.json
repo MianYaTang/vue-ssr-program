@@ -1,0 +1,24 @@
+{
+  "name": "vue-ssr-program",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmemainLi/vue-ssr-program.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SmemainLi/vue-ssr-program/issues"
+  },
+  "homepage": "https://github.com/SmemainLi/vue-ssr-program#readme",
+  "dependencies": {
+    "vue": "^2.5.17",
+    "vue-loader": "^15.4.2",
+    "webpack": "^4.19.0"
+  }
+}
