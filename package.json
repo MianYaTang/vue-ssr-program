@@ -19,7 +19,11 @@
   "homepage": "https://github.com/SmemainLi/vue-ssr-program#readme",
   "dependencies": {
     "css-loader": "^1.0.0",
+    "file-loader": "^2.0.0",
     "style-loader": "^0.23.0",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.2",
+    "url-loader": "^1.1.1",
     "vue": "^2.5.17",
     "vue-loader": "^15.4.2",
     "vue-template-compiler": "^2.5.17",
